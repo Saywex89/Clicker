@@ -6,7 +6,7 @@
 
 <p>git clone ссылка на репозиторий</p>
 
-<p>cd Minecraft-Clicker</p>
+<p>cd Clicker</p>
 
 <p>sh start.sh</p>
 
