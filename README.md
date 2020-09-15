@@ -16,6 +16,8 @@
 
 <p>Скачиваем репозиторий zip'oм</p>
 
+<b>Качаем нужные модули</b>
+
 <p>pip install pyautogui</p>
 
 <p>pip install keyboard</p>
