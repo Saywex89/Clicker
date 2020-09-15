@@ -16,4 +16,8 @@
 
 <p>Скачиваем репозиторий zip'oм</p>
 
+<p>pip install pyautogui</p>
+
+<p>pip install keyboard</p>
+
 <p>Открываем с помощью idle(F5 запуск)</p> 
